@@ -1,0 +1,8 @@
+{
+  "name": "mytesttemplate",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "https://github.com/fatih-akkul-bear/rntesttemplate.git",
+  "author": "Fatih Akkul",
+  "license": "MIT"
+}
